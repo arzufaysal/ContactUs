@@ -1,0 +1,41 @@
+
+body{
+
+    
+    background-size:cover;
+    background-image: url(img/img1.png);
+}
+.btn{
+    background:-webkit-linear-gradient(45deg,skyblue,pink);
+    border-radius: 20px;
+    text-align: center;
+   
+    color:purple;
+}
+
+.form-control{
+
+    border-radius: 10px;
+}
+
+
+
+
+.navbar {
+    transition: all 0.4s;
+}
+
+.navbar .nav-link {
+    color:purple;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+    color:rpurple;
+    text-decoration: none;
+}
+
+.navbar .navbar-brand {
+    color:purple;
+    font-family:sans-serif;
+}
